@@ -2,6 +2,11 @@
 
 <a href="https://www.instagram.com/dalcom_cat_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dalcom_cat_/"/>
 
+📫Studing...<br/>
+<img src="https://img.shields.io/badge/C++-00599C8?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+
 <!--
 **kazzha/kazzha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
