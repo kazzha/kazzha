@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={realslow96})](https://solved.ac/{realslow96})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=realslow96)](https://solved.ac/realslow96)
 
 <!--
 **kazzha/kazzha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
