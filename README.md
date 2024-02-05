@@ -1,4 +1,4 @@
-### 저는 부딪히는 개발자 이경현입니다. 난관에 부딪히며 배운 기록은 아래 티스토리에 있습니다.
+### 저는 부딪히며 배우는 개발자 이경현입니다. 난관에 부딪히며 배운 기록은 아래 티스토리에 있습니다.
 -------------------------------------------------
 <a href="https://lightcometrue.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=tistory&logoColor=black"/>
 
