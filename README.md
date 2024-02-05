@@ -1,12 +1,11 @@
 ### 저는 부딪히는 개발자 이경현입니다. 난관에 부딪히며 배운 기록은 아래 티스토리에 있습니다.
 -------------------------------------------------
 <a href="https://lightcometrue.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=tistory&logoColor=black"/>
+
 <a href="https://www.instagram.com/dalcom_cat_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dalcom_cat_/"/>
 
 ## 📫Studing...<br/>
-<img src="https://img.shields.io/badge/C++-00599C8?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C8?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ## 🔭Portfoilo... <br/>
 
